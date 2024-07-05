@@ -38,7 +38,7 @@ class btn extends Model
     }
 
     public function getNama(){
-        return $this->nama;;
+        return $this->nama;
         // return self::$nama;
     }
 }
